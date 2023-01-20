@@ -1,2 +1,2 @@
 # coffeeshop
-this website is live now https://app.netlify.com/sites/fresh-coffee-shop/settings/domain
+this website is live now https://fresh-coffee-shop.netlify.app/
